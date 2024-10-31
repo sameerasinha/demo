@@ -1,2 +1,3 @@
 # demo
-Imagine career app 
+Learning github
+Author sameera sinha
